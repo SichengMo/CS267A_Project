@@ -11,8 +11,7 @@ def process_query(query):
     # Your processing logic for the query goes here
     # You need to implement the necessary steps to process the query and return a digit as the score.
     # Replace the following line with your own implementation
-    api = "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"
-
+    api = "Your API key"
     # Extract Conversion
 
     sentence2 = "Dave (1993). Reference: Movie Name: Glengarry Glen Ross (1992), Rating: 4;Movie Name: Fargo (1996), Rating: 4;Movie Name: Babe (1995), Rating: 4;Movie Name: Seventh Seal, The (Sjunde inseglet, Det) (1957), Rating: 3;Movie Name: Grease (1978), Rating: 2;"
